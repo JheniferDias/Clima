@@ -10,7 +10,9 @@ Projeto desenvolvido como desafio durante o curso de desenvolvimento iOS da Udem
 
 Este é um repositório público exemplificando um aplicativo de clima habilitado para o modo escuro. Você poderá verificar o clima para a localização atual com base nos dados de GPS do iPhone, bem como pesquisar uma cidade manualmente.
 
-https://i.ibb.co/YdxWznn/Simulator-Screen-Shot-i-Phone-11-2022-07-17-at-17-12-20.png
+<p align="center">
+<img src="https://i.ibb.co/YdxWznn/Simulator-Screen-Shot-i-Phone-11-2022-07-17-at-17-12-20.png" width="300" height="649" />
+</p>
 
 ## Requerimentos
 
